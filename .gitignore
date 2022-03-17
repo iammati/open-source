@@ -1,0 +1,5 @@
+.pnpm-store
+node_modules
+
+app/frontend/src/Libs/*
+public/dist/*

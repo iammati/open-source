@@ -1,0 +1,3 @@
+[submodule "cookiebox"]
+    path = cookiebox
+    url = https://github.com/iammati/cookiebox
